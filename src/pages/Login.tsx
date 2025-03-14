@@ -6,7 +6,7 @@ import { useAuthStore } from "../store/auth.store";
 import { validationLogin } from "../utils/validators";
 
 export function Login() {
-  // const [ logged, setLogged ] = useState(false);
+  
   const navigate = useNavigate();
 
   const { login, isLogged } = useAuthStore();
