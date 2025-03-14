@@ -1,0 +1,64 @@
+{
+  "proceduresCard": [
+    {
+      "id": "1", 
+      "description": "Deportes",
+      "icon": "bike",
+      "route": "sports"
+    },
+    {
+      "id": "2",
+      "description": "Licencia de conducir",
+      "icon": "id-card",
+      "route": "driver-license"
+    },
+    {
+      "id": "3",
+      "description": "Obras privadas",
+      "icon": "drill",
+      "route": "private-works"
+    },
+    {
+      "id": "4",
+      "description": "Comercios",
+      "icon": "store",
+      "route": "businesses"
+    },
+    {
+      "id": "5",
+      "description": "Firma digital",
+      "icon": "file-pen",
+      "route": "digital-signature"
+    },
+    {
+      "id": "6",
+      "description": "Inmuebles",
+      "icon": "house",
+      "route": "real-estate"
+    },
+    {
+     "id": "7",
+     "description": "Habilitaciones",
+     "icon": "file-text",
+     "route": "licenses"
+    },
+    {
+      "id": "8",
+      "description": "Transporte",
+      "icon": "bus",
+      "route": "transport"
+    },
+    {
+      "id": "9",
+      "description": "Pago de tasas",
+      "icon": "circle-dollar-sign",
+      "route": "tax-payment"
+    },
+    {
+      "id": "10",
+      "description": "Patentes y rodados",
+      "icon": "car-front",
+      "route": "vehicle-registration"
+    }
+  ]
+}
